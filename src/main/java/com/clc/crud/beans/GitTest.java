@@ -4,6 +4,7 @@ public class GitTest {
 
 	public void m1() {
 	System.out.println("1ww");
+	System.out.println("2ww");
 }
 
 }
